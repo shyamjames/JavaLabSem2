@@ -1,5 +1,5 @@
 /*
- * Write a program to perform the mathematical operations using switch case.
+ * Program to perform the mathematical operations using switch case.
  * @Shyam James
  * Roll No 54
  * 17/11/2025

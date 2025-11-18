@@ -1,6 +1,5 @@
 /*
- * Write a program to perform the mathematical operations using switch case.
- * @Shyam James
+ * Program to display two numbers received as command-line arguments.
  * Roll No 54
  * 17/11/2025
  */
