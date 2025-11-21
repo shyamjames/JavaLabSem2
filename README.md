@@ -2,6 +2,6 @@
 
 ## Questions 
 
-1. Write a program to display two numbers received as command-line arguments.
+1. Program to display two numbers using command line arguments, add those numbers, and display the result.
 2. Write a program to perform the mathematical operations using switch case.
 
