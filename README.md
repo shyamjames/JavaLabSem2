@@ -10,3 +10,5 @@ your secret number and displays the count of attempts.
 4. Implement searching and sorting elements in an Array.
 5. Implement a Java program to pass an array in different ways.
 6. Write a Java program to add and multiply two matrices.
+7. A function takes two integer arguments and returns the maximum. Use this function
+to find the maximum of three numbers.
