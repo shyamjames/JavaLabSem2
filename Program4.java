@@ -35,21 +35,24 @@ class Program4{
         }
 
         //Searching
-        System.err.println("");
-        System.out.println("Enter and element to search: ");
-        int sr = s.nextInt();
-        int flag=0;
-        for(int i=0;i<n;i++){
-            if(a[i]==sr){
-                System.out.println("Element "+sr+" found at position "+i);
-                flag = 1;
+        int low=0,high=n-1,sr,mid,flg=0;
+        System.out.println("");
+        System.out.println("Enter an element to search: ");
+        sr = s.nextInt();
+        while(low<=high){
+            mid = (low+high)/2;
+            if(sr==a[mid]){
+                System.out.println("Element found at position "+mid);
+                flg=1;
                 break;
+            }else if(sr<a[mid]){
+                high = mid-1;
             }else{
-                flag = 0;
+                low = mid+1;
             }
         }
-        if(flag == 0){
-            System.out.println("Not found!");
+        if(flg==0){
+            System.out.println("Element not found!");
         }
     }
 }
