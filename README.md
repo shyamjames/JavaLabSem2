@@ -12,3 +12,6 @@ your secret number and displays the count of attempts.
 6. Write a Java program to add and multiply two matrices.
 7. A function takes two integer arguments and returns the maximum. Use this function
 to find the maximum of three numbers.
+8. A function takes an integer argument and returns the reverse of the same. Another
+function takes an integer argument and returns true or false if the number is a
+palindrome, using the above function.
