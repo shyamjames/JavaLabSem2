@@ -7,3 +7,4 @@
 3. Keep a secret number between 20 and 30 in your program. Ask the user to
 predict a number between 20 and 30. Use a do-while loop until the user predicts
 your secret number and displays the count of attempts.
+4. Implement searching and sorting elements in an Array
