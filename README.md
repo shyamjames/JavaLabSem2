@@ -15,3 +15,12 @@ to find the maximum of three numbers.
 8. A function takes an integer argument and returns the reverse of the same. Another
 function takes an integer argument and returns true or false if the number is a
 palindrome, using the above function.
+9. The 15-puzzle (also known as the sliding puzzle) consists of a 4×4 grid containing 15
+numbered tiles (from 1 to 15) and one empty space. The objective is to rearrange the
+tiles by sliding them horizontally or vertically into the empty space to achieve the
+correct ascending order, as shown below: [Experiential Learning]
+
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 _          incomplete
