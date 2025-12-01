@@ -7,8 +7,7 @@ Roll No: 54
 28/11/25
 */
 
-import java.io.*;
-import java.util.Scanner;
+import java.util.*;
 
 class C1{
     public int reverseInt(int a){
