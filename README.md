@@ -24,3 +24,4 @@ correct ascending order, as shown below: [Experiential Learning]
 5 6 7 8
 9 10 11 12
 13 14 15 _          incomplete
+10. Display from n - 1 and 1-n using recursive functions.
