@@ -25,3 +25,12 @@ correct ascending order, as shown below: [Experiential Learning]
 9 10 11 12
 13 14 15 _          incomplete
 10. Display from n - 1 and 1-n using recursive functions.
+11. Create a program for adding, subtracting, multiplying and dividing two numbers
+using object-oriented concepts
+12. Create a class complex having real and imaginary as data members and provide
+function for read, display, add and multiply.
+13. Create a class for CString having a string data member and provide functions for read,
+display, compare(return Boolean value),add and concatenate.
+
+14. Create a class for a student having (sno, sname, sprogram) [example sno-1,sname-
+sanjay,sprogram-MCA]. Provide functions for reading and displaying the same information. Also provide a function for comparing two student objects for equality.
