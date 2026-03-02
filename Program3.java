@@ -27,5 +27,6 @@ class Program3{
                     flag = 0;
                 }
             }while(flag!=1);
+        s.close();
     }
 }
