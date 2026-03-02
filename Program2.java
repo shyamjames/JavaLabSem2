@@ -4,7 +4,6 @@
  * Roll No 54
  * 17/11/2025
  */
-import java.io.*;
 
 class SwitchCalc{
 	public static void main(String args[]){
