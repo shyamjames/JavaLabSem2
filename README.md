@@ -34,3 +34,17 @@ display, compare(return Boolean value),add and concatenate.
 
 14. Create a class for a student having (sno, sname, sprogram) [example sno-1,sname-
 sanjay,sprogram-MCA]. Provide functions for reading and displaying the same information. Also provide a function for comparing two student objects for equality.
+
+36. Program to implement a Generic method.
+37. Program to implement a Generic Class.
+38. Write a program to create a menu driven program for performing the following operations:
+	a. Length of a given string
+	b. Compare for equality
+	c. Extract a substring from a string
+	d. Convert to uppercase and lowercase
+	e. Reverse a string
+39. Program to implement StringBuffer class.
+40. Program to implement Server Client Communication.
+41. Program to implement one to one chatting.
+42. Implement a program where the client requests a specific filename and downloads its content from the server.
+43. Program to Upload the content from client to server.
