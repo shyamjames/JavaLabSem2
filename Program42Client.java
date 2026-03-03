@@ -10,7 +10,7 @@ import java.net.*;
 
 class Program42Client {
     public static void main(String[] args) throws Exception{
-        Socket s = new Socket("localhost", 5000);
+        Socket s = new Socket("localhost", 1234);
         System.out.println("Connected to server!");
         DataInputStream dis = new DataInputStream(s.getInputStream());
         DataOutputStream dos = new DataOutputStream(s.getOutputStream());

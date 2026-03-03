@@ -10,7 +10,7 @@ import java.net.*;
 
 class Program42Server {
     public static void main(String[] args) throws Exception{
-        ServerSocket ss = new ServerSocket(5000);
+        ServerSocket ss = new ServerSocket(1234);
         System.out.println("Server waiting for client...");
         Socket s = ss.accept();
         System.out.println("Client Connected!");
