@@ -47,4 +47,21 @@ sanjay,sprogram-MCA]. Provide functions for reading and displaying the same info
 40. Program to implement Server Client Communication.
 41. Program to implement one to one chatting.
 42. Implement a program where the client requests a specific filename and downloads its content from the server.
-43. Program to Upload the content from client to server.
+43. Program to Upload the content from client to server.44. Program to implement public chatting.
+45. Program for real-time file transfer with multiple clients.
+46. Program to get protocol, file name, host, path and port of a given URL.
+47. Program to download a file from given URL.
+48. Program to display the content of a webpage given its URL.
+49. Program to insert values into a table.
+50. Program to check if a record exists in login table (Uname, Upass).
+51. Program to display joined data from Emp and Department tables.
+52. Program using PreparedStatement and CallableStatement.
+53. Program to implement Transaction and Batch processing.
+54. Program to implement Serialization and De-Serialization.
+55. Program to implement IS-A Serialization (inheritance with Serializable).
+56. Program to implement HAS-A Serialization (composition with Serializable).
+57. Program to De-Serialize selected attributes using Transient keyword.
+58. Program to find maximum of three numbers using AWT.
+59. Program to implement all functionality of LIST control in AWT.
+60. Program to implement Check box and radio button in AWT.
+61. Program to demonstrate menus using AWT.
