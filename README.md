@@ -47,7 +47,8 @@ sanjay,sprogram-MCA]. Provide functions for reading and displaying the same info
 40. Program to implement Server Client Communication.
 41. Program to implement one to one chatting.
 42. Implement a program where the client requests a specific filename and downloads its content from the server.
-43. Program to Upload the content from client to server.44. Program to implement public chatting.
+43. Program to Upload the content from client to server.
+44. Program to implement public chatting.
 45. Program for real-time file transfer with multiple clients.
 46. Program to get protocol, file name, host, path and port of a given URL.
 47. Program to download a file from given URL.
